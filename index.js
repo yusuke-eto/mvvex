@@ -28,10 +28,10 @@ controller.hears(['マニュアル'], ['ambient'], function(bot, message) {
 　　});
 
 controller.hears(['西本'], ['ambient'], function(bot, message) {
-　　　　bot.reply(message, 'インターン生 \n https://mf.esa.io/posts/77517');
+　　　　bot.reply(message, 'インターン生やで \n https://mf.esa.io/posts/77517');
 　　});
 controller.hears(['安中'], ['ambient'], function(bot, message) {
-　　　　bot.reply(message, 'SQLマン \n https://mf.esa.io/posts/40751');
+　　　　bot.reply(message, 'I LOVE　パクチー \n https://mf.esa.io/posts/40751');
 　　});
 controller.hears(['後藤'], ['ambient'], function(bot, message) {
 　　　　bot.reply(message, 'めちゃおもろい自己紹介やで \n https://mf.esa.io/posts/68963');
@@ -55,7 +55,7 @@ controller.hears(['原'], ['ambient'], function(bot, message) {
 　　　　bot.reply(message, '自己紹介 \n https://mf.esa.io/posts/41136');
 　　});
 controller.hears(['北嶋'], ['ambient'], function(bot, message) {
-　　　　bot.reply(message, '自己紹介 \n https://mf.esa.io/posts/48339');
+　　　　bot.reply(message, 'プロレスめちゃ好きやで \n https://mf.esa.io/posts/48339');
 　　});
 controller.hears(['横田'], ['ambient'], function(bot, message) {
 　　　　bot.reply(message, '自己紹介 \n https://mf.esa.io/posts/60597');
@@ -64,7 +64,7 @@ controller.hears(['逆瀬川'], ['ambient'], function(bot, message) {
 　　　　bot.reply(message, '自己紹介 \n https://mf.esa.io/posts/65180');
 　　});
 controller.hears(['松本'], ['ambient'], function(bot, message) {
-　　　　bot.reply(message, '自己紹介 \n https://mf.esa.io/posts/74211');
+　　　　bot.reply(message, '山形のことなら任せんかい \n https://mf.esa.io/posts/74211');
 　　});
 controller.hears(['高倉'], ['ambient'], function(bot, message) {
 　　　　bot.reply(message, '自己紹介 \n https://mf.esa.io/posts/22079');
