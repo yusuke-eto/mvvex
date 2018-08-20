@@ -28,70 +28,70 @@ controller.hears(['マニュアル'], ['ambient'], function(bot, message) {
 　　});
 
 controller.hears(['西本'], ['ambient'], function(bot, message) {
-　　　　bot.reply(message, 'インターン生やで \n https://mf.esa.io/posts/77517');
+　　　　bot.reply(message, '西本はよーわからんインターン生やで \n https://mf.esa.io/posts/77517');
 　　});
 controller.hears(['安中'], ['ambient'], function(bot, message) {
-　　　　bot.reply(message, 'I LOVE　パクチー \n https://mf.esa.io/posts/40751');
+　　　　bot.reply(message, '安中 LOVES パクチー \n https://mf.esa.io/posts/40751');
 　　});
 controller.hears(['後藤'], ['ambient'], function(bot, message) {
-　　　　bot.reply(message, 'めちゃおもろい自己紹介やで \n https://mf.esa.io/posts/68963');
+　　　　bot.reply(message, '後藤の自己紹介めちゃおもろいで \n https://mf.esa.io/posts/68963');
 　　});
 controller.hears(['今井'], ['ambient'], function(bot, message) {
 　　　　bot.reply(message, '我らが経費本部の部長さん \n https://mf.esa.io/posts/8407');
 　　});
 controller.hears(['堀内'], ['ambient'], function(bot, message) {
-　　　　bot.reply(message, '自己紹介 \n https://mf.esa.io/posts/8405');
+　　　　bot.reply(message, '堀内さんはこんな人！ \n https://mf.esa.io/posts/8405');
 　　});
 controller.hears(['斎藤'], ['ambient'], function(bot, message) {
-　　　　bot.reply(message, '自己紹介 \n https://mf.esa.io/posts/9819');
+　　　　bot.reply(message, '斎藤さんはこんな人！  \n https://mf.esa.io/posts/9819');
 　　});
 controller.hears(['成末'], ['ambient'], function(bot, message) {
-　　　　bot.reply(message, '自己紹介 \n https://mf.esa.io/posts/36162');
+　　　　bot.reply(message, '成末さんはこんな人！  \n https://mf.esa.io/posts/36162');
 　　});
 controller.hears(['寺本'], ['ambient'], function(bot, message) {
-　　　　bot.reply(message, '自己紹介 \n https://mf.esa.io/posts/38115');
+　　　　bot.reply(message, '寺本さんはこんな人！  \n https://mf.esa.io/posts/38115');
 　　});
 controller.hears(['原'], ['ambient'], function(bot, message) {
-　　　　bot.reply(message, '自己紹介 \n https://mf.esa.io/posts/41136');
+　　　　bot.reply(message, '原さんはこんな人！  \n https://mf.esa.io/posts/41136');
 　　});
 controller.hears(['北嶋'], ['ambient'], function(bot, message) {
-　　　　bot.reply(message, '(プロレスめちゃ好きやで|モテモテ)] \n https://mf.esa.io/posts/48339');
+　　　　bot.reply(message, 'プロレスめちゃ好きやで \n https://mf.esa.io/posts/48339');
 　　});
 controller.hears(['横田'], ['ambient'], function(bot, message) {
-　　　　bot.reply(message, '自己紹介 \n https://mf.esa.io/posts/60597');
+　　　　bot.reply(message, '横田さんはこんな人！  \n https://mf.esa.io/posts/60597');
 　　});
 controller.hears(['逆瀬川'], ['ambient'], function(bot, message) {
-　　　　bot.reply(message, '自己紹介 \n https://mf.esa.io/posts/65180');
+　　　　bot.reply(message, '逆瀬川さんはこんな人！  \n https://mf.esa.io/posts/65180');
 　　});
 controller.hears(['松本'], ['ambient'], function(bot, message) {
 　　　　bot.reply(message, '山形のことなら任せんかい \n https://mf.esa.io/posts/74211');
 　　});
 controller.hears(['高倉'], ['ambient'], function(bot, message) {
-　　　　bot.reply(message, '自己紹介 \n https://mf.esa.io/posts/22079');
+　　　　bot.reply(message, '高倉さんはこんな人！  \n https://mf.esa.io/posts/22079');
 　　});
 controller.hears(['柏崎'], ['ambient'], function(bot, message) {
-　　　　bot.reply(message, '自己紹介 \n https://mf.esa.io/posts/29199');
+　　　　bot.reply(message, '柏崎さんはこんな人！  \n https://mf.esa.io/posts/29199');
 　　});
 controller.hears(['黒田'], ['ambient'], function(bot, message) {
-　　　　bot.reply(message, '自己紹介 \n https://mf.esa.io/posts/7783');
+　　　　bot.reply(message, '黒田さんはこんな人！  \n https://mf.esa.io/posts/7783');
 　　});
 controller.hears(['伊藤'], ['ambient'], function(bot, message) {
-　　　　bot.reply(message, '伊藤は二人おんねん \n https://mf.esa.io/posts/14611 \n https://mf.esa.io/posts/21029');
+　　　　bot.reply(message, '伊藤さんは二人おんねん \n https://mf.esa.io/posts/14611 \n https://mf.esa.io/posts/21029');
 　　});
 controller.hears(['深澤'], ['ambient'], function(bot, message) {
-　　　　bot.reply(message, '自己紹介 \n https://mf.esa.io/posts/7134');
+　　　　bot.reply(message, '深澤さんはこんな人！  \n https://mf.esa.io/posts/7134');
 　　});
 controller.hears(['及川'], ['ambient'], function(bot, message) {
-　　　　bot.reply(message, '自己紹介 \n https://mf.esa.io/posts/63004');
+　　　　bot.reply(message, '及川さんさんはこんな人！  \n https://mf.esa.io/posts/63004');
 　　});
 controller.hears(['青山'], ['ambient'], function(bot, message) {
-　　　　bot.reply(message, '自己紹介 \n https://mf.esa.io/posts/43345');
+　　　　bot.reply(message, '青山さんさんはこんな人！  \n https://mf.esa.io/posts/43345');
 　　});
 controller.hears(['江藤'], ['ambient'], function(bot, message) {
-　　　　bot.reply(message, '自己紹介 \n https://mf.esa.io/posts/72093');
+　　　　bot.reply(message, '江藤さんさんはこんな人！  \n https://mf.esa.io/posts/72093');
 　　});
 controller.hears(['近藤'], ['ambient'], function(bot, message) {
-　　　　bot.reply(message, '自己紹介 \n https://mf.esa.io/posts/61718');
+　　　　bot.reply(message, '近藤さんはこんな人！  \n https://mf.esa.io/posts/61718');
 　　});
 
 
