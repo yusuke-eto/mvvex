@@ -55,7 +55,7 @@ controller.hears(['原'], ['ambient'], function(bot, message) {
 　　　　bot.reply(message, '自己紹介 \n https://mf.esa.io/posts/41136');
 　　});
 controller.hears(['北嶋'], ['ambient'], function(bot, message) {
-　　　　bot.reply(message, 'プロレスめちゃ好きやで \n https://mf.esa.io/posts/48339');
+　　　　bot.reply(message, '(プロレスめちゃ好きやで|モテモテ)] \n https://mf.esa.io/posts/48339');
 　　});
 controller.hears(['横田'], ['ambient'], function(bot, message) {
 　　　　bot.reply(message, '自己紹介 \n https://mf.esa.io/posts/60597');
