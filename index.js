@@ -42,8 +42,8 @@ controller.hears(['今井'], ['ambient'], function(bot, message) {
 controller.hears(['堀内'], ['ambient'], function(bot, message) {
 　　　　bot.reply(message, '堀内さんはこんな人！ \n https://mf.esa.io/posts/8405');
 　　});
-controller.hears(['斎藤'], ['ambient'], function(bot, message) {
-　　　　bot.reply(message, '斎藤さんはこんな人！  \n https://mf.esa.io/posts/9819');
+controller.hears(['齊藤','斉藤'], ['ambient'], function(bot, message) {
+　　　　bot.reply(message, '齊藤さんはこんな人！  \n https://mf.esa.io/posts/9819');
 　　});
 controller.hears(['成末'], ['ambient'], function(bot, message) {
 　　　　bot.reply(message, '成末さんはこんな人！  \n https://mf.esa.io/posts/36162');
@@ -92,6 +92,9 @@ controller.hears(['江藤'], ['ambient'], function(bot, message) {
 　　});
 controller.hears(['近藤'], ['ambient'], function(bot, message) {
 　　　　bot.reply(message, '近藤さんはこんな人！  \n https://mf.esa.io/posts/61718');
+　　});
+  controller.hears(['おつかれ'], ['direct_message'], function(bot, message) {
+　　　　bot.reply(message, 'おつかれさん \n 今日もようがんばったな！　\n ゆっくり休みや:releived:');
 　　});
 
 
