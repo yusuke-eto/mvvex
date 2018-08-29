@@ -28,7 +28,7 @@ controller.hears(['マニュアル'], ['ambient'], function(bot, message) {
 　　});
   
  controller.hears(['ZOOM'], ['ambient'], function(bot, message) {
-　　　　bot.reply(message, '堀内さん (https://zoom.us/j/4367734105)\n 寺本さん (https://zoom.us/j/7855344110)\n 北嶋さん (https://zoom.us/j/7776860009)\n 住谷さん (https://zoom.us/j/7475568036)\n 逆瀬川さん (https://zoom.us/j/6020559468)\n 松本さん (https://zoom.us/j/5661849566)\n 原 さん(https://zoom.us/j/8206768818)\n 横田さん(https://zoom.us/j/4603468082)\n 後藤さん(https://zoom.us/j/6820371657)\n 安中さん(https://zoom.us/j/5730560839)\n 西本さん(https://zoom.us/j/9076360566);
+　　　　bot.reply(message, '堀内さん (https://zoom.us/j/4367734105) \n 寺本さん (https://zoom.us/j/7855344110) \n 北嶋さん (https://zoom.us/j/7776860009) \n 住谷さん (https://zoom.us/j/7475568036) \n 逆瀬川さん (https://zoom.us/j/6020559468) \n 松本さん (https://zoom.us/j/5661849566) \n 原 さん(https://zoom.us/j/8206768818) \n 横田さん(https://zoom.us/j/4603468082) \n 後藤さん(https://zoom.us/j/6820371657) \n 安中さん(https://zoom.us/j/5730560839) \n 西本さん(https://zoom.us/j/9076360566);
 　　});
 
 controller.hears(['西本'], ['ambient'], function(bot, message) {
