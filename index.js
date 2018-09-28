@@ -107,6 +107,9 @@ controller.hears(['近藤'], ['ambient'], function(bot, message) {
 controller.hears(['小山'], ['ambient'], function(bot, message) {
 　　　　bot.reply(message, '小山さんはこんな人！ \n https://mf.esa.io/posts/76919');
 　　});
+controller.hears(['石塚'], ['ambient'], function(bot, message) {
+　　　　bot.reply(message, '石塚さんはこんな人！ \n https://mf.esa.io/posts/69687');
+　　});
 
 
 });
