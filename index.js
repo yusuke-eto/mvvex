@@ -66,7 +66,7 @@ controller.hears(['原'], ['ambient'], function(bot, message) {
 　　　　bot.reply(message, '原さんはこんな人！ \n https://mf.esa.io/posts/41136');
 　　});
 controller.hears(['北嶋'], ['ambient'], function(bot, message) {
-　　　　bot.reply(message, 'プロレス好きの北嶋さん  \n https://mf.esa.io/posts/48339');
+　　　　bot.reply(message, 'プロレス好きの北嶋さん:kitasan:  \n https://mf.esa.io/posts/48339');
 　　});
 controller.hears(['横田'], ['ambient'], function(bot, message) {
 　　　　bot.reply(message, '横田さんはこんな人！ \n https://mf.esa.io/posts/60597');
