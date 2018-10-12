@@ -84,10 +84,10 @@ controller.hears(['柏崎'], ['ambient'], function(bot, message) {
 　　　　bot.reply(message, '柏崎さんはこんな人！ \n https://mf.esa.io/posts/29199');
 　　});
 controller.hears(['黒田'], ['ambient'], function(bot, message) {
-　　　　bot.reply(message, '黒田さんはこんな人！ \n https://mf.esa.io/posts/7783');
+　　　　bot.reply(message, 'ダイエット中なのにいっぱい食べちゃう黒田さん \n https://mf.esa.io/posts/7783');
 　　});
 controller.hears(['伊藤'], ['ambient'], function(bot, message) {
-　　　　bot.reply(message, '伊藤さんは二人おんねんで、実は \n https://mf.esa.io/posts/14611 \n https://mf.esa.io/posts/21029');
+　　　　bot.reply(message, '伊藤さんは二人おんねんで、実は \n 毎日2h卓球で追い込む伊藤大介さん https://mf.esa.io/posts/14611 \n 伊藤雄介さんはこんな人！　https://mf.esa.io/posts/21029');
 　　});
 controller.hears(['深澤'], ['ambient'], function(bot, message) {
 　　　　bot.reply(message, '深澤さんはこんな人！ \n https://mf.esa.io/posts/7134');
@@ -99,7 +99,7 @@ controller.hears(['青山'], ['ambient'], function(bot, message) {
 　　　　bot.reply(message, '青山さんはこんな人！ \n https://mf.esa.io/posts/43345');
 　　});
 controller.hears(['江藤'], ['ambient'], function(bot, message) {
-　　　　bot.reply(message, '江藤さんはこんな人！ \n https://mf.esa.io/posts/72093');
+　　　　bot.reply(message, '江藤少年の事件簿:kininaru: \n https://mf.esa.io/posts/72093');
 　　});
 controller.hears(['近藤'], ['ambient'], function(bot, message) {
 　　　　bot.reply(message, '近藤さんはこんな人！ \n https://mf.esa.io/posts/61718');
