@@ -114,7 +114,7 @@ controller.hears(['市村'], ['ambient'], function(bot, message) {
 　　　　bot.reply(message, '市村さんはこんな人！ \n https://mf.esa.io/posts/80083');
 　　});
 controller.hears(['田中'], ['ambient'], function(bot, message) {
-　　　　bot.reply(message, 'たなかさんはこんな人:mayuyu: \n https://mf.esa.io/posts/55818');
+　　　　bot.reply(message, 'たなかさんはこんな人:mayuyuyu: \n https://mf.esa.io/posts/55818');
 　　});
 
 
