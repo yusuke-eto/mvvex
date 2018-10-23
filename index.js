@@ -116,6 +116,14 @@ controller.hears(['市村'], ['ambient'], function(bot, message) {
 controller.hears(['田中'], ['ambient'], function(bot, message) {
 　　　　bot.reply(message, 'たなかさんはこんな人:mayuyuyu: \n https://mf.esa.io/posts/55818');
 　　});
+controller.hears(['後藤'], 'ambient', function(bot, message) {
+  bot.api.reactions.add({
+    timestamp: message.ts,
+    channel: message.channel,
+    name: 'goto'
+});
+  });
+
 
 
 
