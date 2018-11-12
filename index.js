@@ -45,7 +45,7 @@ controller.hears(['安中'], ['ambient'], function(bot, message) {
 　　　　bot.reply(message, 'ふわっと安中さん \n https://mf.esa.io/posts/40751');
 　　});
 controller.hears(['後藤'], ['ambient'], function(bot, message) {
-　　　　bot.reply(message, 'めちゃおもろい後藤さんの自己紹介 \n https://mf.esa.io/posts/68963');
+　　　　bot.reply(message, 'めちゃおもろいごっちゃんの自己紹介 \n https://mf.esa.io/posts/68963');
 　　});
 controller.hears(['今井'], ['ambient'], function(bot, message) {
 　　　　bot.reply(message, '我らが経費本部の部長さん \n https://mf.esa.io/posts/8407');
@@ -115,6 +115,9 @@ controller.hears(['市村'], ['ambient'], function(bot, message) {
 　　});
 controller.hears(['田中'], ['ambient'], function(bot, message) {
 　　　　bot.reply(message, 'たなかさんはこんな人:mayuyuyu: \n https://mf.esa.io/posts/55818');
+　　});
+  controller.hears(['関根'], ['ambient'], function(bot, message) {
+　　　　bot.reply(message, 'せきっちはこんな人！:sekitti: \n https://mf.esa.io/posts/83561');
 　　});
 controller.hears(['ごっちゃん'], 'ambient', function(bot, message) {
   bot.api.reactions.add({
