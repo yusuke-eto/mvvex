@@ -117,7 +117,7 @@ controller.hears(['田中'], ['ambient'], function(bot, message) {
 　　　　bot.reply(message, 'たなかさんはこんな人:mayuyuyu: \n https://mf.esa.io/posts/55818');
 　　});
   controller.hears(['関根'], ['ambient'], function(bot, message) {
-　　　　bot.reply(message, 'せきっちはこんな人！:sekitti: \n https://mf.esa.io/posts/83561');
+　　　　bot.reply(message, '足立区のマイルドヤンキーこと:sekitti: \n https://mf.esa.io/posts/83561');
 　　});
 controller.hears(['ごっちゃん'], 'ambient', function(bot, message) {
   bot.api.reactions.add({
