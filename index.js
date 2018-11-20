@@ -119,6 +119,9 @@ controller.hears(['田中'], ['ambient'], function(bot, message) {
   controller.hears(['関根'], ['ambient'], function(bot, message) {
 　　　　bot.reply(message, '足立区のマイルドヤンキーこと:sekitti: \n https://mf.esa.io/posts/83561');
 　　});
+  controller.hears(['多胡'], ['ambient'], function(bot, message) {
+　　　　bot.reply(message, '多胡さんはこんな人！ \n https://mf.esa.io/posts/75661');
+　　});
 controller.hears(['ごっちゃん'], 'ambient', function(bot, message) {
   bot.api.reactions.add({
     timestamp: message.ts,
