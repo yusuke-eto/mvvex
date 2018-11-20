@@ -24,7 +24,7 @@ controller.hears(['mvv'], ['ambient'], function(bot, message) {
 　　});
 
 controller.hears(['ZOOM'], ['direct_mention'], function(bot, message) {
-　　　　bot.reply(message, 'Zoom URL \n 堀内さん https://zoom.us/j/4367734105 \n 寺本さん https://zoom.us/j/7855344110 \n 北嶋さん https://zoom.us/j/7776860009 \n 住谷さん https://zoom.us/j/7475568036 \n 逆瀬川さん https://zoom.us/j/6020559468 \n 松本さん https://zoom.us/j/5661849566 \n 原さん https://zoom.us/j/8206768818 \n 横田さん https://zoom.us/j/4603468082 \n 後藤さん https://zoom.us/j/6820371657 \n 安中さん https://zoom.us/j/5730560839 \n 西本さん https://zoom.us/j/9076360566 \n 石塚さん https://zoom.us/j/2245365943 \n 柏崎さん https://zoom.us/j/4603468082 \n 伊藤大さん https://zoom.us/j/3532915271');
+　　　　bot.reply(message, 'Zoom URL \n 堀内さん https://zoom.us/j/4367734105 \n 寺本さん https://zoom.us/j/7855344110 \n 北嶋さん https://zoom.us/j/7776860009 \n 住谷さん https://zoom.us/j/7475568036 \n 逆瀬川さん https://zoom.us/j/6020559468 \n 松本さん https://zoom.us/j/5661849566 \n 原さん https://zoom.us/j/8206768818 \n 横田さん https://zoom.us/j/4603468082 \n 後藤さん https://zoom.us/j/6820371657 \n 安中さん https://zoom.us/j/5730560839 \n 西本さん https://zoom.us/j/9076360566 \n 石塚さん https://zoom.us/j/2245365943 \n 柏崎さん https://zoom.us/j/7963331199 \n 伊藤大さん https://zoom.us/j/3532915271');
 　　});
 
 controller.hears(['マニュアル'], ['ambient'], function(bot, message) {
