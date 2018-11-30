@@ -75,7 +75,7 @@ controller.hears(['逆瀬川'], ['ambient'], function(bot, message) {
 　　　　bot.reply(message, '逆瀬川さんはこんな人！ \n https://mf.esa.io/posts/65180');
 　　});
 controller.hears(['松本'], ['ambient'], function(bot, message) {
-　　　　bot.reply(message, '松本さんはこんな人！ \n https://mf.esa.io/posts/74211');
+　　　　bot.reply(message, '山形親善大使(仮)の松本氏 \n https://mf.esa.io/posts/74211');
 　　});
 controller.hears(['高倉'], ['ambient'], function(bot, message) {
 　　　　bot.reply(message, '高倉さんはこんな人！ \n https://mf.esa.io/posts/22079');
