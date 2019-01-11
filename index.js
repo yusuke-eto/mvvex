@@ -127,6 +127,9 @@ controller.hears(['ごっちゃん'], 'ambient', function(bot, message) {
     timestamp: message.ts,
     channel: message.channel,
     name: 'goto'
+controller.hears(['wifi'], ['ambient'], function(bot, message) {
+　　　　bot.reply(message, 'https://mf.esa.io/posts/17045');
+　　});
 });
   });
 
