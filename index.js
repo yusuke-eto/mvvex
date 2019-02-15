@@ -87,7 +87,7 @@ controller.hears(['黒田'], ['ambient'], function(bot, message) {
 　　　　bot.reply(message, 'ダイエット中なのにいっぱい食べちゃう黒田さん \n https://mf.esa.io/posts/7783');
 　　});
 controller.hears(['伊藤'], ['ambient'], function(bot, message) {
-　　　　bot.reply(message, '伊藤さんは二人おんねんで、実は \n 毎日2h卓球で追い込む伊藤大介さん https://mf.esa.io/posts/14611 \n 伊藤雄介さんはこんな人！　https://mf.esa.io/posts/21029');
+　　　　bot.reply(message, '毎日2h卓球で追い込む伊藤大介さん \n https://mf.esa.io/posts/14611');
 　　});
 controller.hears(['深澤'], ['ambient'], function(bot, message) {
 　　　　bot.reply(message, '深澤さんはこんな人！ \n https://mf.esa.io/posts/7134');
