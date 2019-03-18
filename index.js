@@ -45,6 +45,13 @@ controller.hears(['ごっちゃん'], 'ambient', function(bot, message) {
     name: 'goto'
 　　});
 });
+controller.hears(['キタさん'], 'ambient', function(bot, message) {
+  bot.api.reactions.add({
+    timestamp: message.ts,
+    channel: message.channel,
+    name: 'kitasan'
+　　});
+});
 controller.hears(['wifi'], ['ambient'], function(bot, message) {
 　　　　bot.reply(message, 'SSID：guest-mfw \n PASS：mfw#9160 \n \n SSID：BYOD-mfw \n PASS：mfw#3994 \n \n 詳細はesaみてや \n https://mf.esa.io/posts/17045');
   });
