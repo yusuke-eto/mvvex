@@ -45,7 +45,7 @@ controller.hears(['ごっちゃん'], 'ambient', function(bot, message) {
     name: 'goto'
 　　});
 });
-controller.hears(['キタさん1'], 'ambient', function(bot, message) {
+controller.hears(['キタさ1'], 'ambient', function(bot, message) {
   bot.api.reactions.add({
     timestamp: message.ts,
     channel: message.channel,
